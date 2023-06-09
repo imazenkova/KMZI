@@ -1,0 +1,26 @@
+            //var cdc1 = (double)1 / 23;
+            //var cdc2 = (double)2 / 23;
+            //var cdc3 = (double)3 / 23;
+            //var cdc4 = (double)4 / 23;
+            ////Console.WriteLine(cdc);
+            //Console.WriteLine(Math.Log(0.8, 2)*0.8);
+            //Console.WriteLine(Math.Log(0.2, 2)*0.2);
+            //Console.WriteLine(Math.Log(cdc3, 2)*6/23);
+            //Console.WriteLine(Math.Log(cdc4, 2)*6/23);
+
+            //string nameLerarus = "трошковалерияниколаевна";
+            //string nameNikrus = "кубарко никита валерьевич";
+
+            //Console.WriteLine(shan.entrop(nameLerarus, "FIOLera.log"));
+            //Console.WriteLine(shan.entrop(nameNikrus, "FIO.log"));
+            //Console.WriteLine(shan.entrop("troshkovalerianikolaevna", "FIOLeraen.log"));
+            //Console.WriteLine(shan.entrop("kubarko nikita valer'evich", "FIOen.log"));
+            //Console.WriteLine("----------------------");
+            //StringBuilder lera_byte = new StringBuilder();
+            //foreach (char a in nameLerarus)
+            //    lera_byte.Append(Convert.ToString(a, 2));
+            //StringBuilder nik_byte = new StringBuilder();
+            //foreach (char a in nameNikrus)
+            //    nik_byte.Append(Convert.ToString(a, 2));
+            //Console.WriteLine(shan.entrop(lera_byte.ToString(),"lera_byte_rus.log"));
+            //Console.WriteLine(shan.entrop(nik_byte.ToString(),"nik_byte_rus.log"));

@@ -1,0 +1,16 @@
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.exe
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.deps.json
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.runtimeconfig.json
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.runtimeconfig.dev.json
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.dll
+E:\БГТУ\Crypto\LR_02\LR_02\bin\Debug\net5.0\LR_02.pdb
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.csproj.AssemblyReference.cache
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.GeneratedMSBuildEditorConfig.editorconfig
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.AssemblyInfoInputs.cache
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.AssemblyInfo.cs
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.csproj.CoreCompileInputs.cache
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.dll
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\refint\LR_02.dll
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.pdb
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\LR_02.genruntimeconfig.cache
+E:\БГТУ\Crypto\LR_02\LR_02\obj\Debug\net5.0\ref\LR_02.dll

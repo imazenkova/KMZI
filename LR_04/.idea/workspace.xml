@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1717d839-2db6-4f2a-88e0-75f4c104ae7f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/api/tokenApi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/controllers/Admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/controllers/Auth.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/handlers/DB_handler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/handlers/GetCreds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/handlers/Token_Handler_new.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/models/DB_Model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/images/backgroundBookCard.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/admin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/chat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/homePage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/layout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/order.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/javascripts/personalArea.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/stylesheets/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/stylesheets/chat.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/stylesheets/order.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/public/stylesheets/personal_area.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/admin.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/adminEditBook.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/chat.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/login.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/order.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/adminPanelAddAuthor.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/adminPanelAddBook.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/adminPanelAddGenre.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/adminPanelAddPublishingHouse.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/adminPanelEditBook.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/loginInputs.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/partials/registerInputs.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/personalArea.hbs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Courseworks/BookStore/views/register.hbs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab01/1.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab01/1x.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ClientT/ClientT.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ClientT/ClientT/ClientT.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ClientT/ClientT/ClientT.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ClientT/ClientT/ClientT.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/Otvety2.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ServerT/ServerT.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ServerT/ServerT/ServerT.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ServerT/ServerT/ServerT.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab02/ServerT/ServerT/ServerT.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU/ClientU.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU/ClientU.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU/ClientU.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU/pch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ClientU/ClientU/pch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU/ServerU.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU/ServerU.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU/ServerU.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU/pch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab03/ServerU/ServerU/pch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client/Client.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client/Client.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client/Client.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client/pch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Client/Client/pch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server/Server.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server/Server.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server/Server.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server/pch.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Lab_02-1/Server/Server/pch.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/ClientB.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/ClientB.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/ClientB.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ClientB/ClientB/targetver.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB.sln" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/ReadMe.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/ServerB.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/ServerB.vcxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/ServerB.vcxproj.filters" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/stdafx.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/stdafx.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Programming Secure Web Aplications/Labs/Laba 4/ServerB/ServerB/targetver.h" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1dR3uhsBxKEYOWnUDL9I0XjnjVN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1717d839-2db6-4f2a-88e0-75f4c104ae7f" name="Default Changelist" comment="" />
+      <created>1592374302601</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592374302601</updated>
+      <workItem from="1592374303732" duration="165000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

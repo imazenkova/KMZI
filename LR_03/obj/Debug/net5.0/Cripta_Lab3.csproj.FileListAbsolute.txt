@@ -1,0 +1,32 @@
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.exe
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.deps.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.dev.json
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\ref\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\bin\Debug\net5.0\Cripta_Lab3.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.AssemblyReference.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfoInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfo.cs
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\ref\Cripta_Lab3.dll
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.pdb
+C:\Users\37525\OneDrive\Рабочий стол\Cripta_Lab3\obj\Debug\net5.0\Cripta_Lab3.genruntimeconfig.cache
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.exe
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.deps.json
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.json
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.runtimeconfig.dev.json
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.dll
+E:\БГТУ\Crypto\LR_03\bin\Debug\net5.0\Cripta_Lab3.pdb
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.csproj.AssemblyReference.cache
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfoInputs.cache
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.AssemblyInfo.cs
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.csproj.CoreCompileInputs.cache
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.dll
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\refint\Cripta_Lab3.dll
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.pdb
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\Cripta_Lab3.genruntimeconfig.cache
+E:\БГТУ\Crypto\LR_03\obj\Debug\net5.0\ref\Cripta_Lab3.dll
